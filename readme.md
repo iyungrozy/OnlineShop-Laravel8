@@ -13,7 +13,7 @@ Sistem ini dibuat dengan menggunakan framework <a href="https://laravel.com/">La
 |---------|--------------|
 | Nama    | IYUNG ROZY |
 | Jurusan | Informatika |
-| Kampus  | Universitas Amikom Yogyakarta |
+| Kampus  | Universitas Nahdlatul Ulama Sidoarjo |
 
 ## 📌 Fitur dari Kasir Resto
 

@@ -35,11 +35,11 @@ Sistem ini dibuat dengan menggunakan framework <a href="https://laravel.com/">La
 
 1. **Clone Repository**
 ```bash
-git clone https://github.com/iyungrozy/Kasir-Restoran-laravel-8.git
+git clone https://github.com/iyungrozy/OnlineShop-Laravel8.git
 ```
 
 ```
-cd AplikasiKasirRestoran
+cd OnlineShop-Laravel8
 composer install
 npm install
 copy .env.example rename->.env
